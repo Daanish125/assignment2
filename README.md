@@ -1,3 +1,4 @@
+HERE IS THE VIDEO LINK: https://www.loom.com/share/c7f3a2dafe8942699cf9056f4134bf52?sid=29115d3e-1c0b-4176-b0b7-fcfa60464556
 Project Overview
 This is a responsive Worker Progress Report form for the Workers Compensation Board of Manitoba (WCB). The form allows injured workers to provide updates about their recovery status, work status, treatment details, and other relevant information related to their claim.
 
